@@ -3,7 +3,6 @@
 Console.WriteLine("Spock: What's your name?");
 string fname = Console.ReadLine();
 Console.WriteLine(fname + ": " + fname);
-
 Console.WriteLine("Spock: So your name is " + fname);
 Console.WriteLine("Spock: " + fname + " Who?");
 string lname = Console.ReadLine();
@@ -18,9 +17,6 @@ if (planet == "Earth")
     Console.WriteLine(fname+": Nice to meet you sir. I have great things about you. I have to go now.");
     Console.WriteLine("Spock: Live long and prosper.");
     Console.WriteLine(fname+": Peace and long life.");
-
-
-
 }
 else
 {
@@ -30,12 +26,6 @@ else
     Console.WriteLine(fname+": Saturn. Nice to meet you sir. I have great things about you. I have to go now.");
     Console.WriteLine("Spock: Live long and prosper.");
     Console.WriteLine(fname+": Peace and long life.");
-
-
-
-
-
-
 }
 
 
